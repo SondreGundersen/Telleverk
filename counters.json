@@ -1,0 +1,26 @@
+{
+    "teller1": {
+        "start": 1500000,
+        "interval": 5,
+        "increment": 3,
+        "startTime": "2025-06-01T00:00:00Z"
+    },
+    "teller2": {
+        "start": 1215000,
+        "interval": 4,
+        "increment": 2,
+        "startTime": "2025-06-01T00:00:00Z"
+    },
+    "teller3": {
+        "start": 382000,
+        "interval": 7,
+        "increment": 1,
+        "startTime": "2025-06-01T00:00:00Z"
+    },
+    "teller4": {
+        "start": 58500000,
+        "interval": 2,
+        "increment": 45,
+        "startTime": "2025-06-01T00:00:00Z"
+    }
+}
