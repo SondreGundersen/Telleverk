@@ -1,26 +1,26 @@
 {
     "teller1": {
-        "start": 1500000,
-        "interval": 5,
-        "increment": 3,
-        "startTime": "2025-10-01T00:00:00Z"
+        "start": 9000000,
+        "interval": 7,
+        "increment": 8,
+        "startTime": "2026-02-01T00:00:00Z"
     },
     "teller2": {
-        "start": 1215000,
-        "interval": 4,
-        "increment": 2,
-        "startTime": "2025-10-01T00:00:00Z"
+        "start": 7295000,
+        "interval": 7,
+        "increment": 6,
+        "startTime": "2026-02-01T00:00:00Z"
     },
     "teller3": {
-        "start": 382000,
+        "start": 2295000,
         "interval": 7,
-        "increment": 1,
-        "startTime": "2025-10-01T00:00:00Z"
+        "increment": 2,
+        "startTime": "2026-02-01T00:00:00Z"
     },
     "teller4": {
-        "start": 58500000,
-        "interval": 2,
-        "increment": 45,
-        "startTime": "2025-10-01T00:00:00Z"
+        "start": 351270000,
+        "interval": 1,
+        "increment": 44,
+        "startTime": "2026-02-01T00:00:00Z"
     }
 }
